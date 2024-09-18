@@ -20,7 +20,7 @@ I’m a passionate Software and DevOps Engineer with expertise in:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ogenbertrand&show_icons=true&theme=dark)
 
 ## 📫 How to reach me
 - [LinkedIn](linkedin.com/in/ogen-bertrand-2a9108264)
