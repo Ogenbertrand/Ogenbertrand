@@ -1,7 +1,7 @@
 # Hello, I'm Ogen Bertrand 👋🏾!
 
 I’m a passionate Software and DevOps Engineer with expertise in:
-- 💻 **Software Development:** Java, Python, JavaScript, TypeScript
+- 💻 **Software Development:** Java, Python, JavaScript, TypeScript, Node.js
 - 🚀 **DevOps Practices:** CI/CD, Docker, Kubernetes, Terraform, Ansible
 - ☁️ **Cloud Platforms:** AWS
 - 🐧 **Operating Systems:** Linux, Windows, Mac
