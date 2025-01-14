@@ -2,7 +2,7 @@
 
 I’m a passionate Software and DevOps Engineer with expertise in:
 - 💻 **Software Development:** Java, Python, JavaScript, TypeScript, Node.js
-- 🎨 **Frontend Development:** React, HTML, CSS, SCSS, Tailwind CSS, Vite
+- 🎨 **Frontend Development:** React, HTML, CSS, Tailwind CSS, Vite
 - 🚀 **DevOps Practices:** CI/CD, Docker, Kubernetes, Terraform, Ansible
 - ☁️ **Cloud Platforms:** AWS
 - 🐧 **Operating Systems:** Linux, Windows, Mac
