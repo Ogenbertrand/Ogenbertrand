@@ -38,3 +38,6 @@ I’m a Full-Stack Software and DevOps Engineer with expertise in:
 
 Feel free to reach me out for any service, I'm open to work and communicate with any passionate person in this field.
 Also ready to contribute to as many projects as I can.
+
+## Contact me
+- ogenbertrand@gmail.com
