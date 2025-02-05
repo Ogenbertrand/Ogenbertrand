@@ -35,9 +35,6 @@ I’m a Full-Stack Software and DevOps Engineer with expertise in:
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ogenbertrand&show_icons=true&theme=dark)
 
-## 📫 How to reach me
-- [LinkedIn](linkedin.com/in/ogen-bertrand-2a9108264)
-- [Email](ogenbertrand@gmail.com)
 
 Feel free to reach me out for any service, I'm open to work and communicate with any passionate person in this field.
 Also ready to contribute to as many projects as I can.
