@@ -7,6 +7,8 @@
   <a href="https://github.com/Ogenbertrand/Ogenbertrand/blob/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2004_27_23%20PM.png">
   </a>
 </div>
+
+
 # Hello, I'm Ogen Bertrand 👋🏾!
 
 I’m a Full-Stack Software and DevOps Engineer with expertise in:
